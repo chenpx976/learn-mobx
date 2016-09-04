@@ -1,0 +1,26 @@
+{
+  "name": "learn-mobx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mobx": "^2.5.1",
+    "mobx-react": "^3.5.5",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenpx976/learn-mobx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenpx976/learn-mobx/issues"
+  },
+  "homepage": "https://github.com/chenpx976/learn-mobx#readme"
+}
